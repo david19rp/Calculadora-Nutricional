@@ -22,4 +22,4 @@ In this project , I'm going to create a calculator that is going to take the  fo
   - Lean Body Mass
   
   So basically the idea is to work in a calculator that is going to show to the user the info above, for this project
-  I'm going to use jquery and bootstrap v3.
+  I'm going to use jquery and bootstrap v4.
